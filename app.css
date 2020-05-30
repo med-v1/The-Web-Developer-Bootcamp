@@ -1,11 +1,17 @@
 h1 {
-    color: blue;
+    color: #1670BE;
+    border: 2px dashed purple;
 }
 
 h4 {
-    color: crimson;
+    background: rgb(100, 10, 25);
+    color: #BE6416;
 }
 
 li {
-    color: orange;
+    color: rgba(100, 10, 100, .2);
+}
+
+body {
+    background: pink
 }
